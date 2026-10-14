@@ -1,0 +1,414 @@
+[
+  {
+    "ism": "Aziz Shukurov",
+    "yosh": 26,
+    "shahar": "Toshkent",
+    "email": "aziz.shukurov@example.uz",
+    "talaba": false,
+    "ko'nikmalar": ["Dasturchi", "Frontend ishlab chiquvchi", "UI/UX dizayner"],
+    "ta'lim": {
+      "daraja": "Bakalavr",
+      "mutaxassislik": "Kompyuter injiniringi",
+      "universitet": "Toshkent Axborot Texnologiyalari Universiteti",
+      "bitirgan_yil": 2021
+    },
+    "ish_tajriba": [
+      {
+        "tashkilot": "IT Park Uzbekistan",
+        "lavozim": "Frontend dasturchi",
+        "boshlanish_yil": 2021,
+        "tugash_yil": null
+      }
+    ]
+  },
+  {
+    "ism": "Malika To‘xtayeva",
+    "yosh": 30,
+    "shahar": "Samarqand",
+    "email": "malika.toxtayeva@example.uz",
+    "talaba": false,
+    "ko'nikmalar": ["Buxgalter", "Moliyachi", "Excel mutaxassisi"],
+    "ta'lim": {
+      "daraja": "Magistr",
+      "mutaxassislik": "Buxgalteriya hisobi",
+      "universitet": "Samarqand Davlat Universiteti",
+      "bitirgan_yil": 2018
+    },
+    "ish_tajriba": [
+      {
+        "tashkilot": "Orient Finans Bank",
+        "lavozim": "Buxgalter",
+        "boshlanish_yil": 2019,
+        "tugash_yil": null
+      }
+    ]
+  },
+  {
+    "ism": "Jasur Karimov",
+    "yosh": 22,
+    "shahar": "Namangan",
+    "email": "jasur.karimov@example.uz",
+    "talaba": true,
+    "ko'nikmalar": ["Python", "MySQL", "Flask"],
+    "ta'lim": {
+      "daraja": "Bakalavr",
+      "mutaxassislik": "Dasturiy ta'minot injiniringi",
+      "universitet": "Namangan Muhandislik-Texnologiya Instituti",
+      "bitirgan_yil": 2026
+    },
+    "ish_tajriba": []
+  },
+  {
+    "ism": "Dilnoza Ergasheva",
+    "yosh": 27,
+    "shahar": "Farg‘ona",
+    "email": "dilnoza.ergasheva@example.uz",
+    "talaba": false,
+    "ko'nikmalar": ["Dizayner", "Adobe Photoshop", "Illustrator"],
+    "ta'lim": {
+      "daraja": "Bakalavr",
+      "mutaxassislik": "Grafik dizayn",
+      "universitet": "Farg‘ona Davlat Universiteti",
+      "bitirgan_yil": 2019
+    },
+    "ish_tajriba": [
+      {
+        "tashkilot": "ArtVision Studio",
+        "lavozim": "Grafik dizayner",
+        "boshlanish_yil": 2020,
+        "tugash_yil": null
+      }
+    ]
+  },
+  {
+    "ism": "Oybek Rahmatov",
+    "yosh": 33,
+    "shahar": "Buxoro",
+    "email": "oybek.rahmatov@example.uz",
+    "talaba": false,
+    "ko'nikmalar": ["Elektr muhandisi", "AutoCAD", "Loyiha tuzish"],
+    "ta'lim": {
+      "daraja": "Magistr",
+      "mutaxassislik": "Elektr energetikasi",
+      "universitet": "Buxoro Davlat Texnika Universiteti",
+      "bitirgan_yil": 2014
+    },
+    "ish_tajriba": [
+      {
+        "tashkilot": "Hududiy Elektr Tarmoqlari",
+        "lavozim": "Muhandis",
+        "boshlanish_yil": 2015,
+        "tugash_yil": null
+      }
+    ]
+  },
+  {
+    "ism": "Shahnoza Abdullayeva",
+    "yosh": 25,
+    "shahar": "Andijon",
+    "email": "shahnoza.abdullayeva@example.uz",
+    "talaba": false,
+    "ko'nikmalar": ["O‘qituvchi", "Pedagogika", "Psixologiya"],
+    "ta'lim": {
+      "daraja": "Bakalavr",
+      "mutaxassislik": "Boshlang‘ich ta’lim",
+      "universitet": "Andijon Davlat Universiteti",
+      "bitirgan_yil": 2020
+    },
+    "ish_tajriba": [
+      {
+        "tashkilot": "1-maktab",
+        "lavozim": "O‘qituvchi",
+        "boshlanish_yil": 2021,
+        "tugash_yil": null
+      }
+    ]
+  },
+  {
+    "ism": "Bekzod Xolmatov",
+    "yosh": 29,
+    "shahar": "Qarshi",
+    "email": "bekzod.xolmatov@example.uz",
+    "talaba": false,
+    "ko'nikmalar": ["Backend dasturchi", "Node.js", "MongoDB"],
+    "ta'lim": {
+      "daraja": "Bakalavr",
+      "mutaxassislik": "Axborot texnologiyalari",
+      "universitet": "Qarshi Muhandislik-Iqtisodiyot Instituti",
+      "bitirgan_yil": 2017
+    },
+    "ish_tajriba": [
+      {
+        "tashkilot": "SoftLine IT",
+        "lavozim": "Backend developer",
+        "boshlanish_yil": 2018,
+        "tugash_yil": null
+      }
+    ]
+  },
+  {
+    "ism": "Madina Yoqubova",
+    "yosh": 24,
+    "shahar": "Navoiy",
+    "email": "madina.yoqubova@example.uz",
+    "talaba": true,
+    "ko'nikmalar": ["Mobil ilova ishlab chiqish", "Flutter", "UI dizayn"],
+    "ta'lim": {
+      "daraja": "Bakalavr",
+      "mutaxassislik": "Kompyuter injiniringi",
+      "universitet": "Navoiy Davlat Konchilik Instituti",
+      "bitirgan_yil": 2025
+    },
+    "ish_tajriba": []
+  },
+  {
+    "ism": "Javohir Sobirov",
+    "yosh": 36,
+    "shahar": "Xiva",
+    "email": "javohir.sobirov@example.uz",
+    "talaba": false,
+    "ko'nikmalar": ["Tarixchi", "Tadqiqotchi", "Yozuvchi"],
+    "ta'lim": {
+      "daraja": "Magistr",
+      "mutaxassislik": "Tarix",
+      "universitet": "Urganch Davlat Universiteti",
+      "bitirgan_yil": 2012
+    },
+    "ish_tajriba": [
+      {
+        "tashkilot": "Tarix Instituti",
+        "lavozim": "Ilmiy xodim",
+        "boshlanish_yil": 2014,
+        "tugash_yil": null
+      }
+    ]
+  },
+  {
+    "ism": "Gulbahor Raximova",
+    "yosh": 42,
+    "shahar": "Qo‘qon",
+    "email": "gulbahor.rahimova@example.uz",
+    "talaba": false,
+    "ko'nikmalar": ["Tibbiyot hamshirasi", "Farmatsiya", "Gigiena"],
+    "ta'lim": {
+      "daraja": "Kollej",
+      "mutaxassislik": "Hamshiralik ishi",
+      "universitet": "Farg‘ona Tibbiyot Texnikumi",
+      "bitirgan_yil": 2003
+    },
+    "ish_tajriba": [
+      {
+        "tashkilot": "Qo‘qon shahar shifoxonasi",
+        "lavozim": "Hamshira",
+        "boshlanish_yil": 2004,
+        "tugash_yil": null
+      }
+    ]
+  },
+  {
+    "ism": "Abbos Mamajonov",
+    "yosh": 40,
+    "shahar": "Jizzax",
+    "email": "abbos.mamajonov@example.uz",
+    "talaba": false,
+    "ko'nikmalar": ["Loyihachi", "AutoCAD", "Arxitektura"],
+    "ta'lim": {
+      "daraja": "Magistr",
+      "mutaxassislik": "Arxitektura",
+      "universitet": "Toshkent Arxitektura-Qurilish Instituti",
+      "bitirgan_yil": 2008
+    },
+    "ish_tajriba": [
+      {
+        "tashkilot": "Smart Design Group",
+        "lavozim": "Arxitektor",
+        "boshlanish_yil": 2009,
+        "tugash_yil": null
+      }
+    ]
+  },
+  {
+    "ism": "Nilufar Qodirova",
+    "yosh": 28,
+    "shahar": "Termiz",
+    "email": "nilufar.qodirova@example.uz",
+    "talaba": false,
+    "ko'nikmalar": ["Marketing", "SMM", "Reklama dizayni"],
+    "ta'lim": {
+      "daraja": "Bakalavr",
+      "mutaxassislik": "Marketing",
+      "universitet": "Termiz Davlat Universiteti",
+      "bitirgan_yil": 2018
+    },
+    "ish_tajriba": [
+      {
+        "tashkilot": "BrandBox Media",
+        "lavozim": "Marketing mutaxassisi",
+        "boshlanish_yil": 2019,
+        "tugash_yil": null
+      }
+    ]
+  },
+  {
+    "ism": "Sherzod Sattorov",
+    "yosh": 45,
+    "shahar": "Toshkent viloyati",
+    "email": "sherzod.sattorov@example.uz",
+    "talaba": false,
+    "ko'nikmalar": ["Quruvchi", "Texnik nazoratchi", "Loyiha boshlig‘i"],
+    "ta'lim": {
+      "daraja": "Magistr",
+      "mutaxassislik": "Qurilish injiniringi",
+      "universitet": "Toshkent Davlat Texnika Universiteti",
+      "bitirgan_yil": 2002
+    },
+    "ish_tajriba": [
+      {
+        "tashkilot": "UzBuild Group",
+        "lavozim": "Loyiha rahbari",
+        "boshlanish_yil": 2003,
+        "tugash_yil": null
+      }
+    ]
+  },
+  {
+    "ism": "Rayhona Akramova",
+    "yosh": 21,
+    "shahar": "Marg‘ilon",
+    "email": "rayhona.akramova@example.uz",
+    "talaba": true,
+    "ko'nikmalar": ["HTML", "CSS", "JavaScript"],
+    "ta'lim": {
+      "daraja": "Bakalavr",
+      "mutaxassislik": "Frontend dasturlash",
+      "universitet": "Farg‘ona Davlat Universiteti",
+      "bitirgan_yil": 2026
+    },
+    "ish_tajriba": []
+  },
+  {
+    "ism": "Elyor Boboyev",
+    "yosh": 34,
+    "shahar": "Guliston",
+    "email": "elyor.boboyev@example.uz",
+    "talaba": false,
+    "ko'nikmalar": ["Matematika o‘qituvchisi", "Analitik fikrlash", "Statistika"],
+    "ta'lim": {
+      "daraja": "Magistr",
+      "mutaxassislik": "Matematika",
+      "universitet": "Sirdaryo Davlat Universiteti",
+      "bitirgan_yil": 2013
+    },
+    "ish_tajriba": [
+      {
+        "tashkilot": "Guliston 12-maktab",
+        "lavozim": "Matematika o‘qituvchisi",
+        "boshlanish_yil": 2014,
+        "tugash_yil": null
+      }
+    ]
+  },
+  {
+    "ism": "Umida Yo‘ldosheva",
+    "yosh": 38,
+    "shahar": "Nukus",
+    "email": "umida.yoldosheva@example.uz",
+    "talaba": false,
+    "ko'nikmalar": ["Tillar o‘qituvchisi", "Ingliz tili", "Metodist"],
+    "ta'lim": {
+      "daraja": "Magistr",
+      "mutaxassislik": "Filologiya",
+      "universitet": "Qoraqalpoq Davlat Universiteti",
+      "bitirgan_yil": 2009
+    },
+    "ish_tajriba": [
+      {
+        "tashkilot": "Language World markazi",
+        "lavozim": "Ingliz tili o‘qituvchisi",
+        "boshlanish_yil": 2010,
+        "tugash_yil": null
+      }
+    ]
+  },
+  {
+    "ism": "Abror Nasriddinov",
+    "yosh": 23,
+    "shahar": "Angren",
+    "email": "abror.nasriddinov@example.uz",
+    "talaba": true,
+    "ko'nikmalar": ["Python", "Django", "SQL"],
+    "ta'lim": {
+      "daraja": "Bakalavr",
+      "mutaxassislik": "Dasturiy injiniring",
+      "universitet": "Toshkent Axborot Texnologiyalari Universiteti",
+      "bitirgan_yil": 2025
+    },
+    "ish_tajriba": []
+  },
+  {
+    "ism": "Zarnigor Islomova",
+    "yosh": 32,
+    "shahar": "Termiz",
+    "email": "zarnigor.islomova@example.uz",
+    "talaba": false,
+    "ko'nikmalar": ["SMM mutaxassisi", "Kontent yaratuvchi", "Kopirayter"],
+    "ta'lim": {
+      "daraja": "Bakalavr",
+      "mutaxassislik": "Jurnalistika",
+      "universitet": "O‘zbekiston Davlat Jahon Tillari Universiteti",
+      "bitirgan_yil": 2014
+    },
+    "ish_tajriba": [
+      {
+        "tashkilot": "UZINFO Media",
+        "lavozim": "Kontent menejer",
+        "boshlanish_yil": 2015,
+        "tugash_yil": null
+      }
+    ]
+  },
+  {
+    "ism": "Diyorbek G‘aniyev",
+    "yosh": 27,
+    "shahar": "Qo‘qon",
+    "email": "diyorbek.ganiev@example.uz",
+    "talaba": false,
+    "ko'nikmalar": ["Avtomexanik", "Avtomobil diagnostikasi", "Texnik xizmat"],
+    "ta'lim": {
+      "daraja": "Kollej",
+      "mutaxassislik": "Avtomexanika",
+      "universitet": "Qo‘qon Texnik Kolleji",
+      "bitirgan_yil": 2016
+    },
+    "ish_tajriba": [
+      {
+        "tashkilot": "AutoFix Servis",
+        "lavozim": "Usta",
+        "boshlanish_yil": 2017,
+        "tugash_yil": null
+      }
+    ]
+  },
+  {
+    "ism": "Gulnoza Rustamova",
+    "yosh": 35,
+    "shahar": "Toshkent",
+    "email": "gulnoza.rustamova@example.uz",
+    "talaba": false,
+    "ko'nikmalar": ["HR menejer", "Kadrlar boshqaruvi", "Psixologiya"],
+    "ta'lim": {
+      "daraja": "Magistr",
+      "mutaxassislik": "Ijtimoiy psixologiya",
+      "universitet": "Toshkent Davlat Sharqshunoslik Universiteti",
+      "bitirgan_yil": 2012
+    },
+    "ish_tajriba": [
+      {
+        "tashkilot": "Human Capital Group",
+        "lavozim": "HR menejer",
+        "boshlanish_yil": 2014,
+        "tugash_yil": null
+      }
+    ]
+  }
+]
