@@ -1,8 +1,8 @@
 from os import system
 import json
 def saralash(fname):
-	with open(fname, encoding = 'utf-8') as f:
-		data = json.load(f)
+	with open(fname, encoding = 'utf-8') as file:
+		data = json.load(file)
 	print("Yosh statistikasi:")
 	print(f"Jami odamlar: {len(data)} ta")
 	res = list(filter(lambda x: x['yosh'], data))
